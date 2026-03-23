@@ -1,4 +1,4 @@
-# Prompt the user for two amounts in cents
+# Tells the user to enter two amounts in cents
 amount1 = int(input("Enter amount1 in cents: "))
 amount2 = int(input("Enter amount2 in cents: "))
 
