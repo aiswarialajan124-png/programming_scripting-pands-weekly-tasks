@@ -1,4 +1,4 @@
-# function to approximates square root
+# function to calculate square root
 def sqrt(number):
     guess = number / 2
 
@@ -11,10 +11,10 @@ def sqrt(number):
         guess = newGuess
 
 
-# main program
+# the main program
 num = float(input("Please enter a positive number: "))
 
-# check if number is positive
+# to check if number is positive
 if num < 0:
     print("Please enter a positive number")
 
