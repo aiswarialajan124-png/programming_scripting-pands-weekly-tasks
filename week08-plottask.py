@@ -24,6 +24,6 @@ plt.legend()
 plt.grid(True)
 
 # Save the figure
-plt.savefig("plot.png")
+plt.savefig("week08-plot.png")
 
 plt.show()
