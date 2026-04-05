@@ -1,3 +1,7 @@
+""" Weekly Task 5: weekday.py
+
+This program checks the current day of the week and prints whether it is a weekday or a weekend. It uses the datetime module to get the current day and determines if it is a weekday (Monday to Friday) or a weekend (Saturday and Sunday)."""
+
 import datetime
 
 # weekday() returns a number , Monday = 0 ... Sunday = 6
