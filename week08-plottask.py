@@ -1,6 +1,8 @@
 """ Weekly Task 8: week08-plottask.py
 
-This program generates a histogram of 1000 random values drawn from a normal distribution with a mean of 5 and a standard deviation of 2. It also plots the function h(x) = x^3 on the same graph. The histogram is normalized to show density, and the function is plotted as a line. The resulting plot is saved as "week08-plot.png" and displayed on the screen."""
+This program generates a histogram of 1000 random values drawn from a normal distribution with a mean of 5 and a standard deviation of 2. It also plots the function h(x) = x^3 on the same graph. The histogram is normalized to show density, and the function is plotted as a line. The resulting plot is saved as "week08-plot.png" and displayed on the screen.
+
+References: https://matplotlib.org/stable/tutorials/pyplot.html#sphx-glr-tutorials-pyplot-py"""
 
 import numpy as np
 import matplotlib.pyplot as plt

@@ -1,6 +1,10 @@
 """ Weekly Task 2: bank.py
 
-This program takes two amounts in cents, and calculates the total sum in euros and cents, then prints the result formatted as "€X.YY"."""
+This program takes two amounts in cents, and calculates the total sum in euros and cents, then prints the result formatted as "€X.YY"."
+
+References: https://docs.python.org/3/tutorial/inputoutput.html
+
+"""
 
 # Tells the user to enter two amounts in cents
 amount1 = int(input("Enter amount1 in cents: "))

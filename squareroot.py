@@ -1,5 +1,10 @@
 """ Weekly Task 6: squareroot.py
-This program calculates the square root of a positive number using the Babylonian method (also known as Heron's method). The user is prompted to enter a positive number, and the program iteratively approximates the square root until it reaches a desired level of accuracy. The final result is printed rounded to one decimal place. If the user enters a negative number, the program will prompt them to enter a positive number. """
+
+This program calculates the square root of a positive number using the Babylonian method (also known as Heron's method). The user is prompted to enter a positive number, and the program iteratively approximates the square root until it reaches a desired level of accuracy. The final result is printed rounded to one decimal place. If the user enters a negative number, the program will prompt them to enter a positive number.
+
+References:  https://docs.python.org/3/library/math.html#math.sqrt
+https://realpython.com/python-square-root-function/
+"""
 
 # function to calculate square root
 def sqrt(number):

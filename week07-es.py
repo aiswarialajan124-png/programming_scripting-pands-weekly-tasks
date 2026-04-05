@@ -1,6 +1,8 @@
 """ Weekly Task 7: week07-es.py
 
-This program takes a filename as a command line argument, checks if the file exists and is a text file, then counts and prints the number of times the letter "e" (both lowercase and uppercase) appears in the file. If the file does not exist or is not a text file, it will print an appropriate error message."""
+This program takes a filename as a command line argument, checks if the file exists and is a text file, then counts and prints the number of times the letter "e" (both lowercase and uppercase) appears in the file. If the file does not exist or is not a text file, it will print an appropriate error message.
+
+References: https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files"""
 
 import sys
 import os

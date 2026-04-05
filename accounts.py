@@ -1,6 +1,8 @@
 """ Weekly Task 3: accounts.py
 
-This program takes a 10 digit account number as input, and prints the last four digits of the account number while hiding the other digits with "X". If the account number has less than or equal to 4 digits, it will print the account number as is without masking. """
+This program takes a 10 digit account number as input, and prints the last four digits of the account number while hiding the other digits with "X". If the account number has less than or equal to 4 digits, it will print the account number as is without masking.
+
+References: https://docs.python.org/3/tutorial/controlflow.html"""
 
 # Asks to enter 10 digit number
 account_number = input("Enter 10 digit account number: ")
