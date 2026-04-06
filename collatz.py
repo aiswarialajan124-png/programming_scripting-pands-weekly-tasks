@@ -1,13 +1,13 @@
 """ Weekly Task 4: collatz.py
 
-This program takes a positive integer as input, and applies the Collatz conjecture to it. The program will keep applying the rules until the current value becomes 1.
+This program generates the Collatz sequence for a given positive integer and continues until it reaches 1.
 
 References: https://oeis.org/A006577 """
 
 # Ask user to enter a positive integer
 num = int(input("Enter a positive integer: "))
 
-# Keep going until number becomes 1
+# Generate Collatz sequence
 while num != 1:
     print(num, end=" ")
 
